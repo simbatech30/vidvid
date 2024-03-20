@@ -1,0 +1,49 @@
+{
+  "videolist": [
+	{
+      "vidUrl": "https://www.tikwm.com/video/media/play/7329923636570246406.mp4",
+      "vidTitle": "video7",
+      "vidDesc": "deskripsi7"
+    },
+	{
+      "vidUrl": "https://www.tikwm.com/video/media/play/7344171788697373958.mp4",
+      "vidTitle": "video8",
+      "vidDesc": "deskripsi8"
+    },
+	{
+      "vidUrl": "https://www.tikwm.com/video/media/play/7333246075857292562.mp4",
+      "vidTitle": "video9",
+      "vidDesc": "deskripsi9"
+    },
+    {
+      "vidUrl": "https://www.tikwm.com/video/media/play/7344171788697373958.mp4",
+      "vidTitle": "video1",
+      "vidDesc": "deskripsi1"
+    },
+	{
+      "vidUrl": "https://www.tikwm.com/video/media/play/7327379405376965893.mp4",
+      "vidTitle": "video2",
+      "vidDesc": "deskripsi2"
+    },
+	{
+      "vidUrl": "https://www.tikwm.com/video/media/play/7344171788697373958.mp4",
+      "vidTitle": "video3",
+      "vidDesc": "deskripsi3"
+    },
+	{
+      "vidUrl": "https://www.tikwm.com/video/media/play/7320442036925091077.mp4",
+      "vidTitle": "video4",
+      "vidDesc": "deskripsi4"
+    },
+	{
+      "vidUrl": "https://www.tikwm.com/video/media/play/7344171788697373958.mp4",
+      "vidTitle": "video5",
+      "vidDesc": "deskripsi5"
+    },
+	{
+      "vidUrl": "https://www.tikwm.com/video/media/play/7344171788697373958.mp4",
+      "vidTitle": "video6",
+      "vidDesc": "deskripsi6"
+    }
+  ]
+}
