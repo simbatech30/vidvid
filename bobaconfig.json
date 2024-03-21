@@ -1,11 +1,13 @@
+
+
 {
   "config": [
     {
-      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
-      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
-      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
-      "menu4": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
-      "countinter": "4",
+      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videoboba.json",
+      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videoboba.json",
+      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videoboba.json",
+      "menu4": "https://github.com/simbatech30/vidvid/raw/main/videoboba.json",
+      "countinter": "10",
       "adactive": "admob,facebook,unity,startapp,applovin,none",
       "adbackup": "unity,facebook,startapp,admob,applovin,random,none",
       "admobopenapp": "ca-app-pub-3940256099942544/9257395921",
@@ -18,13 +20,13 @@
       "unityinter": "Interstitial_Android",
       "applovinbanner": "afb7122672e86344",
       "applovininter": "b6eba8b976279ea5",
-      "emailcontact": "emailmu@gmail.com",
-      "privacypolicy": "https://sites.google.com/view/rsbprivpol",
-      "termofservice": "https://sites.google.com/view/rsbprivpol",
-      "about": "Tulis <b>tentang app ini</b> format HTML, </br>tulis tentang app ini format HTML</br></br></br>tulis tentang app ini format HTML",
+      "emailcontact": "bobavid@gmail.com",
+      "privacypolicy": "https://bobavid.blogspot.com/p/privacy-policy.html",
+      "termofservice": "https://bobavid.blogspot.com/2022/03/terms-conditions-realized-infinit-app.html",
+      "about": " <strong>BobaVid</strong> is your go-to app for diving into the world of short videos! This vibrant mini-video app lets you capture and share the most authentic and entertaining moments of life. Whether it’s daily humor, creative skits, or captivating skills, <strong>BobaVid</strong> turns every spark of your creativity into the next big thing. Join <strong>BobaVid</strong> to showcase your talent to a global audience and connect with friends from around the world through short videos!",
       "linksuspend": "null",
       "cadangan": "null",
-      "menu": "static,colapse"
+      "menu": "colapse,static"
     }
   ]
 }
