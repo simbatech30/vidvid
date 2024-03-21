@@ -2,9 +2,9 @@
   "config": [
     {
       "menu1": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
-      "menu2": "https://github.com/edysdodik/s/raw/main/7.json",
-      "menu3": "https://github.com/edysdodik/s/raw/main/dua.json",
-      "menu4": "https://github.com/edysdodik/s/raw/main/dua.json",
+      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
+      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
+      "menu4": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
       "countinter": "4",
       "adactive": "admob,facebook,unity,startapp,applovin,none",
       "adbackup": "unity,facebook,startapp,admob,applovin,random,none",
