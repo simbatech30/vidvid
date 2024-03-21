@@ -1,11 +1,11 @@
 {
   "config": [
     {
-      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
-      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
-      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
-      "menu4": "https://github.com/simbatech30/vidvid/raw/main/videosample.json",
-      "countinter": "4",
+      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videopibi.json",
+      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videopibi.json",
+      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videopibi.json",
+      "menu4": "https://github.com/simbatech30/vidvid/raw/main/videopibi.json",
+      "countinter": "10",
       "adactive": "admob,facebook,unity,startapp,applovin,none",
       "adbackup": "unity,facebook,startapp,admob,applovin,random,none",
       "admobopenapp": "ca-app-pub-3940256099942544/9257395921",
@@ -18,10 +18,10 @@
       "unityinter": "Interstitial_Android",
       "applovinbanner": "afb7122672e86344",
       "applovininter": "b6eba8b976279ea5",
-      "emailcontact": "emailmu@gmail.com",
-      "privacypolicy": "https://sites.google.com/view/rsbprivpol",
-      "termofservice": "https://sites.google.com/view/rsbprivpol",
-      "about": "Tulis <b>tentang app ini</b> format HTML, </br>tulis tentang app ini format HTML</br></br></br>tulis tentang app ini format HTML",
+      "emailcontact": "betyagnestia@gmail.com",
+      "privacypolicy": "https://sinarsusumurni.blogspot.com/p/privacy-policy.html",
+      "termofservice": "-",
+      "about": " Discover a world of entertainment with <b>Pibi Video</b>, your go-to app for viral, funny, and heartwarming short videos. Dive into an endless stream of content that's guaranteed to brighten your day, whether you're looking to laugh, learn, or simply unwind.",
       "linksuspend": "null",
       "cadangan": "null",
       "menu": "static,colapse"
