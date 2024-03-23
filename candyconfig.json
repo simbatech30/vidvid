@@ -6,7 +6,7 @@
       "menu3": "https://github.com/simbatech30/vidvid/raw/main/videocandy3.json",
       "menu4": "https://github.com/simbatech30/vidvid/raw/main/videocandy4.json",
       "countinter": "4",
-      "adactive": "admob,facebook,unity,startapp,applovin,none",
+      "adactive": "facebook,admob,unity,startapp,applovin,none",
       "adbackup": "unity,facebook,startapp,admob,applovin,random,none",
       "admobopenapp": "ca-app-pub-3940256099942544/9257395921",
       "admobbanner": "ca-app-pub-3940256099942544/6300978111",
