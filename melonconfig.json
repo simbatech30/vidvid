@@ -1,9 +1,9 @@
 {
   "config": [
     {
-      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videolmelon1.json",
-      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videolmelon1.json",
-      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videolmelon1.json",
+      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videomelon1.json",
+      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videomelon1.json",
+      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videomelon1.json",
       "menu4": "https://github.com/simbatech30/vidvid/raw/main/videocandy.json",
       "countinter": "4",
       "adactive": "admob,facebook,unity,startapp,applovin,none",
