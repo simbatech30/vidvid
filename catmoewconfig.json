@@ -1,10 +1,10 @@
 {
   "config": [
     {
-      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videokitty.json",
-      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videokitty.json",
-      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videokitty.json",
-      "menu4": "https://github.com/simbatech30/vidvid/raw/main/videokitty.json",
+      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videocatmoew.json",
+      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videocatmoew.json",
+      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videocatmoew.json",
+      "menu4": "https://github.com/simbatech30/vidvid/raw/main/videocatmoew.json",
       "countinter": "4",
       "adactive": "admob,facebook,unity,startapp,applovin,none",
       "adbackup": "unity,facebook,startapp,admob,applovin,random,none",
