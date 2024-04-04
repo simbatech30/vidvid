@@ -1,0 +1,30 @@
+{
+  "config": [
+    {
+      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videotiktokhot.json",
+      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videotiktokhot.json",
+      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videotiktokhot.json",
+      "menu4": "https://github.com/simbatech30/vidvid/raw/main/videotiktokhot.json",
+      "countinter": "4",
+      "adactive": "admob,facebook,unity,startapp,applovin,none",
+      "adbackup": "unity,facebook,startapp,admob,applovin,random,none",
+      "admobopenapp": "ca-app-pub-3940256099942544/9257395921",
+      "admobbanner": "ca-app-pub-3940256099942544/6300978111",
+      "admobinter": "ca-app-pub-3940256099942544/1033173712",
+      "fbbanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fbinter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "unitygameid": "5372418",
+      "unitybanner": "Banner_Android",
+      "unityinter": "Interstitial_Android",
+      "applovinbanner": "afb7122672e86344",
+      "applovininter": "b6eba8b976279ea5",
+      "emailcontact": "TikTokHot@gmail.com",
+      "privacypolicy": "https://TikTokHot.blogspot.com/p/privacy-policy.html",
+      "termofservice": "https://TikTokHot.blogspot.com/p/privacy-policy.html",
+      "about": "<b>TikTokHot</b> is a short video platform that allows you to capture and share the wonderful moments of life.",
+      "linksuspend": "null",
+      "cadangan": "null",
+      "menu": "static,colapse"
+    }
+  ]
+}
