@@ -1,10 +1,10 @@
 {
   "config": [
     {
-      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videourlebird.json",
-      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videourlebird.json",
-      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videourlebird.json",
-      "menu4": "https://github.com/simbatech30/vidvid/raw/main/videourlebird.json",
+      "menu1": "https://github.com/simbatech30/vidvid/raw/main/videocandy1.json",
+      "menu2": "https://github.com/simbatech30/vidvid/raw/main/videocandy2.json",
+      "menu3": "https://github.com/simbatech30/vidvid/raw/main/videocandy3.json",
+      "menu4": "https://github.com/simbatech30/vidvid/raw/main/videocandy4.json",
       "countinter": "4",
       "adactive": "none,admob,facebook,unity,startapp,applovin",
       "adbackup": "none,unity,facebook,startapp,admob,applovin,random,none",
